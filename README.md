@@ -3,8 +3,7 @@
 An FM radio built using an **Arduino Uno** and the **TEA5767** radio module.  
 It displays the current frequency on an I²C 16×2 LCD display, allows tuning via buttons, stores the last frequency in EEPROM, and outputs audio to speakers via an amplifier.  
 
-Based on the project by Valerio Ceccoli on Arduino Project Hub.  
-(Uses TEA5767 module with range ~ 76 MHz to 108 MHz) :contentReference[oaicite:0]{index=0}
+
 
 ---
 
