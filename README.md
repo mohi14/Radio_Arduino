@@ -56,3 +56,4 @@ It displays the current frequency on an I²C 16×2 LCD display, allows tuning vi
 Here is the wiring layout for the radio setup:
 
 ![Circuit Diagram](images/circuit.png)
+![34](https://github.com/user-attachments/assets/4d1128cd-22f8-4322-bf6f-2c7d462a350f)
